@@ -1,0 +1,40 @@
+[
+    {
+        "purchase_id": "PID556",
+        "customer_name": "John Doe",
+        "phone_number": "+601256734412",
+        "purchased_product": [
+            {
+                "book_product": "BID5711",
+                "product_price": "RM45.00",
+                "product_quantity": 3,
+                "subtotal": "RM135.00"
+            }
+        ],
+        "total_quantity": 3,
+        "total_price": "RM135.00",
+        "purchase_date": "20/01/2024"
+    },
+    {
+        "purchase_id": "PID299",
+        "customer_name": "Tom",
+        "phone_number": "+99677863245",
+        "purchased_product": [
+            {
+                "book_product": "BID5711",
+                "product_price": "RM45.00",
+                "product_quantity": 1,
+                "subtotal": "RM45.00"
+            },
+            {
+                "book_product": "BID5299",
+                "product_price": "RM55.90",
+                "product_quantity": 2,
+                "subtotal": "RM111.80"
+            }
+        ],
+        "total_quantity": 3,
+        "total_price": "RM156.80",
+        "purchase_date": "20/01/2024"
+    }
+]

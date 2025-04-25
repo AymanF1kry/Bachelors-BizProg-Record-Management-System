@@ -1,0 +1,46 @@
+{
+    "customer_purchases": [
+        {
+            "purchase_id": "PID299",
+            "customer_name": "Tom",
+            "phone_number": "+99677863245",
+            "purchased_product": [
+                {
+                    "book_product": "BID5711",
+                    "product_price": "RM45.00",
+                    "product_quantity": 1,
+                    "subtotal": "RM45.00"
+                },
+                {
+                    "book_product": "BID5299",
+                    "product_price": "RM55.90",
+                    "product_quantity": 2,
+                    "subtotal": "RM111.80"
+                }
+            ],
+            "total_quantity": 3,
+            "total_price": "RM156.80",
+            "purchase_date": "20/01/2024"
+        }
+    ],
+    "books": [
+        {
+            "book_id": "BID5711",
+            "book_title": "12 Rules For Life",
+            "book_author": "Jordan Peterson",
+            "book_isbn": "9605563435503",
+            "book_price": "RM61.50",
+            "book_stock": 12
+        }
+    ],
+    "staffs": [
+        {
+            "username": "Ayman",
+            "password": "a123"
+        },
+        {
+            "username": "Fikry",
+            "password": "f321"
+        }
+    ]
+}
